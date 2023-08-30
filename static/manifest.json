@@ -1,0 +1,13 @@
+{
+  "short_name": "HTML Goofs",
+  "name": "Matt's Sandbox for JS/CSS/HTML",
+  "start_url": "https://jscsshtml.istheguy.com/",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "black",
+  "icons": [{
+    "src": "favicon.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }]
+}
