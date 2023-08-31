@@ -8,3 +8,5 @@
     <li>{item}</li>
   {/each}
 </ol>
+
+<p><a href="/">Home</a></p>
