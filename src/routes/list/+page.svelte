@@ -1,12 +1,11 @@
 <script>
-  const egList = ['bingus', 'bungo', 'boopy', 'ballyhoo']
+  import List from '$lib/List.svelte'
 </script>
 
-<h1>This is a list</h1>
-<ol>
-  {#each egList as item}
-    <li>{item}</li>
-  {/each}
-</ol>
+<svelte:head>
+  <title>Matt's List</title>
+</svelte:head>
+
+<List title="It's a list in here"/>
 
 <p><a href="/">Home</a></p>
